@@ -20,7 +20,7 @@ a.meanmenu-reveal{display:none;}
 }
 .mean-container a.meanmenu-reveal span{background:#444 none repeat scroll 0 0;display:block;height:3px;margin-top:3px;}
 .mean-container .mean-nav{background:#0c1923 none repeat scroll 0 0;float:left;margin-top:75px;width:100%;}
-.mean-container .mean-nav ul{padding:0;margin:0;width:100%;list-style-type:none;}
+.mean-container .mean-nav ul{padding:0;margin:0;width:100%;list-style-type:none;overflow: visible;}
 .mean-container .mean-nav ul li{position:relative;float:left;width:100%;}
 .mean-container .mean-nav ul li a{display:block;float:left;width:90%;padding:1em 5%;margin:0;text-align:left;color:#fff;border-top:1px solid #383838;border-top:1px solid rgba(255,255,255,0.5);text-decoration:none;text-transform:uppercase;}
 .mean-container .mean-nav ul li li a{width:80%;padding:1em 10%;border-top:1px solid #f1f1f1;border-top:1px solid rgba(255,255,255,0.25);opacity:0.75;filter:alpha(opacity=75);text-shadow:none !important;visibility:visible;}
