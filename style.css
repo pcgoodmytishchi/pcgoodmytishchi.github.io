@@ -371,6 +371,7 @@
 /* home-service-area */
 .home-service-area {
   overflow: hidden;
+  padding: 50px 0;
 }
 .home-service-wrapper {
   background-position: center center;
@@ -2453,4 +2454,12 @@ a.next-btn {
 
 .contact {
   color: black;
+}
+
+.client {
+  color: white;
+}
+
+.client:hover {
+  color: #ff6600
 }
