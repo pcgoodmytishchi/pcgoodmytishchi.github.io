@@ -1,6 +1,8 @@
 /* header-top-area */
 .body {
   font-family: 'Montserrat', sans-serif;
+  display: flex;
+  flex-direction: column;
 }
 .header-top-area {
 }
@@ -2460,4 +2462,8 @@ a.next-btn {
 
 .client:hover {
   color: #ff6600
+}
+
+.main {
+  flex-grow: 1;
 }
